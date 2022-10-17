@@ -1,0 +1,20 @@
+C:\Users\sebas\Downloads\Alunos e Notas\obj\Debug\net6.0-windows\Alunos e Notas.csproj.AssemblyReference.cache
+C:\Users\sebas\Downloads\Alunos e Notas\obj\Debug\net6.0-windows\Alunos e Notas.csproj.GenerateResource.cache
+C:\Users\sebas\Downloads\Alunos e Notas\obj\Debug\net6.0-windows\Alunos e Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Downloads\Alunos e Notas\obj\Debug\net6.0-windows\Alunos e Notas.AssemblyInfoInputs.cache
+C:\Users\sebas\Downloads\Alunos e Notas\obj\Debug\net6.0-windows\Alunos e Notas.AssemblyInfo.cs
+C:\Users\sebas\Downloads\Alunos e Notas\obj\Debug\net6.0-windows\Alunos e Notas.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Downloads\Alunos e Notas\obj\Debug\net6.0-windows\Alunos_e_Notas.Add_Alunos.resources
+C:\Users\sebas\Downloads\Alunos e Notas\obj\Debug\net6.0-windows\Alunos_e_Notas.FormMain.resources
+C:\Users\sebas\Downloads\Alunos e Notas\obj\Debug\net6.0-windows\Alunos_e_Notas.LançarNotas_turma_.resources
+C:\Users\sebas\Downloads\Alunos e Notas\obj\Debug\net6.0-windows\Alunos_e_Notas.LançarNotas.resources
+C:\Users\sebas\Downloads\Alunos e Notas\bin\Debug\net6.0-windows\Alunos e Notas.exe
+C:\Users\sebas\Downloads\Alunos e Notas\bin\Debug\net6.0-windows\Alunos e Notas.deps.json
+C:\Users\sebas\Downloads\Alunos e Notas\bin\Debug\net6.0-windows\Alunos e Notas.runtimeconfig.json
+C:\Users\sebas\Downloads\Alunos e Notas\bin\Debug\net6.0-windows\Alunos e Notas.dll
+C:\Users\sebas\Downloads\Alunos e Notas\bin\Debug\net6.0-windows\Alunos e Notas.pdb
+C:\Users\sebas\Downloads\Alunos e Notas\obj\Debug\net6.0-windows\Alunos e Notas.dll
+C:\Users\sebas\Downloads\Alunos e Notas\obj\Debug\net6.0-windows\refint\Alunos e Notas.dll
+C:\Users\sebas\Downloads\Alunos e Notas\obj\Debug\net6.0-windows\Alunos e Notas.pdb
+C:\Users\sebas\Downloads\Alunos e Notas\obj\Debug\net6.0-windows\Alunos e Notas.genruntimeconfig.cache
+C:\Users\sebas\Downloads\Alunos e Notas\obj\Debug\net6.0-windows\ref\Alunos e Notas.dll
